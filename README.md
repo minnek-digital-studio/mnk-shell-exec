@@ -39,3 +39,5 @@ We welcome contributions! Please submit a pull request or create an issue if you
 
 Minnek Digital Studio
 - Website: [https://www.minnekdigitalstudio.com](https://www.minnekdigitalstudio.com)
+
+`mnkShellExec v0.1.0`
