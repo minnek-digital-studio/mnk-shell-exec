@@ -38,6 +38,6 @@ We welcome contributions! Please submit a pull request or create an issue if you
 ## Contact
 
 Minnek Digital Studio
-- Website: [https://www.minnekdigitalstudio.com](https://www.minnekdigitalstudio.com)
+- Website: [https://minnekdigital.com/](https://minnekdigital.com/)
 
 `mnkShellExec v0.1.0`
