@@ -9,6 +9,11 @@ MNKShellExec is a Go package developed by `Minnek Digital Studio` that provides 
 - Real-time output streaming for live monitoring of command execution
 - Optional output printing for convenience
 
+## Installation
+```bash
+go get github.com/minnek-digital-studio/mnk-shell-exec
+```
+
 ## Usage
 
 ```go
